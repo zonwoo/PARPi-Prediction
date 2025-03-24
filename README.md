@@ -1,5 +1,9 @@
 # R2eGIN: Residual Reconstruction Enhanced Graph Isomorphism Network for Accurate Prediction of Poly (ADP-Ribose) Polymerase Inhibitors
 
+<p align="center">
+ <img width="800" alt="image" src="image.png">
+</p>
+
 ## Data Availability
 
 The four PARPi datasets used in this project are publicly available from the FP-GNN by [Ai et al. (2022).](https://doi.org/10.3389/fphar.2022.971369)
